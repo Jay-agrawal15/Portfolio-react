@@ -6,6 +6,9 @@ import Research from "./sections/Research"
 import Projects from "./sections/Projects"
 import Contact from "./sections/Contact"
 import Footer from "./components/Footer"
+import Experience from "./sections/Experience"
+
+
 
 function App() {
   return (
@@ -20,6 +23,8 @@ function App() {
       <Skills />
 
       <Research />
+
+      <Experience />
 
       <Projects />
 

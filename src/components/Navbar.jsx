@@ -23,6 +23,11 @@ const navLinks = [
   },
 
   {
+  name: "Experience",
+  path: "#Experience",
+  },
+
+  {
     name: "Projects",
     path: "#projects",
   },
