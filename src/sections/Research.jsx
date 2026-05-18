@@ -76,7 +76,7 @@ function Research() {
               <img
                 src={qr}
                 alt="QR Code"
-                className="w-76 h- 90 rounded-xl border border-gray-700"
+                className="w-70 h-70 rounded-xl border border-gray-700"
               />
 
               <p className="text-gray-400 mt-4 text-sm text-center">
@@ -115,7 +115,10 @@ function Research() {
             </li>
 
             <li>
-              • DOI: 10.1109/AISTS66100.2025.11233219
+              • DOI:
+              <span className="break-all block mt-1">
+              10.1109/AISTS66100.2025.11233219
+              </span>
             </li>
 
           </ul>
